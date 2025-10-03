@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel ="shortcut icon" href=" logo.jpg"type="jpg">
-    <link href="style3.css" rel="stylesheet">
-    <script src="desc.js"></script>
+    <link rel="shortcut icon" href="../Images/logo.jpg" type="image/jpeg">
+    <link href="../CSS/Style3.css" rel="stylesheet">
+    <script src="../JS/desc.js"></script>
     <title>Registro de usuario</title>
 </head>
 <body>

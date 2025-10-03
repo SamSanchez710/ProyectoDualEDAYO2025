@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Notificación a todos</title>
-    <link rel="stylesheet" href="Estilos/styletabla.css">
+    <link rel="stylesheet" href="../CSS/style.css">
     <script>
     function marcarTodosEnviados() {
         fetch("marcar_enviado.php", {
